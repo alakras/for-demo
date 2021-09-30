@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-30T13:41:43 IST" name="Suite" finished-at="2021-09-30T13:41:43 IST" duration-ms="115">
+    <groups>
+    </groups>
+    <test started-at="2021-09-30T13:41:43 IST" name="Test" finished-at="2021-09-30T13:41:43 IST" duration-ms="115">
+      <class name="com.cybage.lakras.lakras.SecondTest">
+        <test-method signature="ft()[pri:0, instance:com.cybage.lakras.lakras.SecondTest@d83da2e]" started-at="2021-09-30T13:41:43 IST" name="ft" finished-at="2021-09-30T13:41:43 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="st()[pri:0, instance:com.cybage.lakras.lakras.SecondTest@d83da2e]" started-at="2021-09-30T13:41:43 IST" name="st" finished-at="2021-09-30T13:41:43 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- st -->
+      </class> <!-- com.cybage.lakras.lakras.SecondTest -->
+      <class name="com.cybage.lakras.lakras.FirstTest">
+        <test-method signature="ft()[pri:0, instance:com.cybage.lakras.lakras.FirstTest@fdefd3f]" started-at="2021-09-30T13:41:43 IST" name="ft" finished-at="2021-09-30T13:41:43 IST" duration-ms="14" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ft -->
+        <test-method signature="st()[pri:0, instance:com.cybage.lakras.lakras.FirstTest@fdefd3f]" started-at="2021-09-30T13:41:43 IST" name="st" finished-at="2021-09-30T13:41:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- st -->
+      </class> <!-- com.cybage.lakras.lakras.FirstTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
